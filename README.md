@@ -77,35 +77,26 @@ REST APIs
 </table>
 
 ---
-
-## ⭐ Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| CV Matching AI Agent | Resume parsing, OCR, RAG | Python, FastAPI, Gemini |
-| AI Plays Flappy Bird | Neuroevolution | Python, NEAT |
-| Mental Health Chatbot | RAG assistant | Gemini, LangChain |
-| Movie Recommendation | ML recommender | Python, DBSCAN |
-
----
-
-# 📊 GitHub Analytics
+# 🐍 Contribution Graph
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TPTN1707&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPTN1707&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake.svg">
+
+<img
+alt="snake"
+src="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake-dark.svg"/>
+
 </picture>
+
 </p>
 
 ---
