@@ -165,23 +165,59 @@ Git • GitHub • VS Code • Docker
 
 # 🎯 Currently Exploring
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📚 Learning
+
 - Multi-Agent Systems
 - Model Context Protocol (MCP)
+- AI System Design
 - LLM Evaluation
-- Agentic RAG
-- Production AI
+- AI Deployment
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Building
+
+- AI Agents
+- Resume Matching Systems
+- Computer Vision Applications
+- RESTful APIs with FastAPI
+- Production-ready AI Workflows
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 💭 Engineering Philosophy
 
-> Build first. Measure second. Improve forever.
+> **Build practical AI systems that solve real problems.**
+>
+> I enjoy turning machine learning models into reliable applications by combining
+> software engineering, backend development, and modern AI technologies.
 
 ---
 
 # 📫 Connect
 
-- GitHub: https://github.com/TPTN1707
-- Email: tptnhan1491@gmail.com
+<p align="center">
+
+<a href="mailto:tptnhan1491@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/nhan-tran-1810ab36a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
 
 ---
