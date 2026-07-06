@@ -6,20 +6,6 @@
 
 </div>
 
-<br>
-
-```bash
-nhan@huit:~$ whoami
-```
-```
-> final-year IT student, graduating Nov 2026
-> building CV & LLM systems that actually ship
-> best work: SeeingVoices — currency recognition for the visually impaired
-> obsessed with real numbers over inflated ones
-```
-
-<br>
-
 ### 🐍 contribution snake
 
 <picture>
@@ -28,7 +14,6 @@ nhan@huit:~$ whoami
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>⚠️ chỉ hiện sau khi bạn bật GitHub Action bên dưới — xem phần setup</sub>
 
 
 ### 🧰 stack
@@ -37,14 +22,6 @@ nhan@huit:~$ whoami
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,react,docker,git&perline=8" />
 </p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TPTN1707&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPTN1707&layout=compact&theme=radical&hide_border=true" height="165"/>
-</div>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:36BCF7&height=100&section=footer" width="100%"/>
 
