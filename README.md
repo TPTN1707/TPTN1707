@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Banner"/>
+</p>
+
 # Building Intelligent Systems
 
 ### Computer Vision • OCR • LLM • AI Agents
