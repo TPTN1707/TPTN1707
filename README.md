@@ -1,28 +1,94 @@
-<div align="center">
+# Building Intelligent Systems
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8E54E9&height=200&section=header&text=Hey,%20I'm%20Nhan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+### Computer Vision • OCR • LLM • AI Agents
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=8E54E9&center=true&vCenter=true&width=600&lines=training+models+that+see+and+read;YOLO+%2B+RAG+%2B+Agents;still+debugging+at+2am" />
-
-</div>
-
-### 🐍 contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
-### 🧰 stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,react,docker,git&perline=8" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI+that+can+see.;Building+AI+that+can+read.;Building+AI+that+can+reason.;Always+building." />
 </p>
 
+> Turning machine learning models into practical applications.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:36BCF7&height=100&section=footer" width="100%"/>
+---
 
-</div>
+## 👋 About
+
+I build practical AI systems with a focus on **Computer Vision**, **OCR**, **Large Language Models**, and **AI Agents**. My goal is to turn machine learning models into production-ready applications.
+
+## 🚀 Current Focus
+
+| 🤖 AI Agents | 👁️ Computer Vision | ⚡ Backend |
+|---|---|---|
+| Multi-agent workflows | OCR, Detection | FastAPI, Docker |
+
+---
+
+## ⭐ Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| CV Matching AI Agent | Resume parsing, OCR, RAG | Python, FastAPI, Gemini |
+| AI Plays Flappy Bird | Neuroevolution | Python, NEAT |
+| Mental Health Chatbot | RAG assistant | Gemini, LangChain |
+| Movie Recommendation | ML recommender | Python, DBSCAN |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TPTN1707&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPTN1707&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake-dark.svg">
+</picture>
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+Python • JavaScript
+
+### AI
+PyTorch • TensorFlow • OpenCV • YOLO • Gemini
+
+### Backend
+FastAPI • Flask • Docker
+
+### Tools
+Git • GitHub • Linux • VS Code
+
+---
+
+# 🎯 Currently Exploring
+
+- Multi-Agent Systems
+- Model Context Protocol (MCP)
+- LLM Evaluation
+- Agentic RAG
+- Production AI
+
+---
+
+# 💭 Engineering Philosophy
+
+> Build first. Measure second. Improve forever.
+
+---
+
+# 📫 Connect
+
+- GitHub: https://github.com/TPTN1707
+- Email: tptnhan1491@gmail.com
+
+---
