@@ -82,16 +82,6 @@ REST APIs
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=TPTN1707&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TPTN1707&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img width="95%"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TPTN1707&theme=github_dark"/>
 
@@ -125,17 +115,51 @@ src="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribut
 
 # 🛠 Tech Stack
 
-### Languages
-Python • JavaScript
+<table>
+<tr>
 
-### AI
-PyTorch • TensorFlow • OpenCV • YOLO • Gemini
+<td align="center" width="25%">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp" /><br><br>
+
+Python • C/C++
+
+</td>
+
+<td align="center" width="25%">
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /><br><br>
+
+YOLO • OpenCV • Gemini
+
+</td>
+
+<td align="center" width="25%">
 
 ### Backend
-FastAPI • Flask • Docker
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker" /><br><br>
+
+FastAPI • Flask • REST API • Pydantic
+
+</td>
+
+<td align="center" width="25%">
 
 ### Tools
-Git • GitHub • Linux • VS Code
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" /><br><br>
+
+Git • GitHub • VS Code • Docker
+
+</td>
+
+</tr>
+</table>
 
 ---
 
