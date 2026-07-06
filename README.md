@@ -1,223 +1,80 @@
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="banner">
-</p>
+# Hi, I'm Nhan 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI+that+can+see.;Building+AI+that+can+read.;Building+AI+that+can+reason.;Always+building." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/TPTN1707">
-    <img src="https://img.shields.io/badge/Open%20Source-Lover-161B22?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Focus-AI%20Systems-8E54E9?style=for-the-badge">
-</p>
+> Building practical AI systems with Computer Vision, Large Language Models, and AI Agents.
 
 ---
 
-# 👋 About
+## About
 
-I'm an AI developer who enjoys building **real-world intelligent systems** rather than standalone machine learning models.
+I'm interested in building AI applications that solve real-world problems rather than experimenting with isolated models.
 
-My primary interests include:
+My current interests include:
 
-- 👁️ Computer Vision
-- 📄 OCR & Document Understanding
-- 🤖 Large Language Models
-- 🧠 AI Agents
-- ⚡ Backend Engineering
-
-Currently, I'm focusing on building production-ready AI applications using modern Python technologies.
+- Computer Vision
+- Natural Language Processing
+- Large Language Models
+- AI Agents
+- Production AI Systems
 
 ---
 
-# 🚀 Current Focus
+## Tech Stack
 
-<table>
-<tr>
+**Languages**
 
-<td width="33%" align="center">
+`Python` • `C/C++`
 
-### 🤖 AI Agents
+**AI**
 
-Tool Calling
+`PyTorch` • `TensorFlow` • `OpenCV` • `YOLO` • `Gemini`
 
-Multi-Agent
+**Backend**
 
-Reasoning
+`FastAPI` • `Flask` • `Docker`
 
-</td>
+**Tools**
 
-<td width="33%" align="center">
-
-### 👁️ Vision AI
-
-OCR
-
-YOLO
-
-Image Processing
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚡ AI Backend
-
-FastAPI
-
-Docker
-
-REST APIs
-
-</td>
-
-</tr>
-</table>
+`Git` • `GitHub` • `Linux` • `VS Code`
 
 ---
 
-# 📊 GitHub Analytics
+## Currently Exploring
 
-<p align="center">
-
-<img width="95%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TPTN1707&theme=github_dark"/>
-
-</p>
+- Multi-Agent Systems
+- Model Context Protocol (MCP)
+- AI System Design
+- LLM Evaluation
+- Production AI
 
 ---
 
-# 🐍 Contribution Graph
+## Contribution
 
 <p align="center">
 
 <picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake.svg">
-
-<img
-alt="snake"
-src="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake-dark.svg"/>
-
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake.svg">
+  <img
+    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/TPTN1707/TPTN1707/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </p>
 
 ---
 
-# 🛠 Tech Stack
+## Philosophy
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp" /><br><br>
-
-Python • C/C++
-
-</td>
-
-<td align="center" width="25%">
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /><br><br>
-
-YOLO • OpenCV • Gemini
-
-</td>
-
-<td align="center" width="25%">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker" /><br><br>
-
-FastAPI • Flask • REST API • Pydantic
-
-</td>
-
-<td align="center" width="25%">
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" /><br><br>
-
-Git • GitHub • VS Code • Docker
-
-</td>
-
-</tr>
-</table>
+> Build useful systems. Keep them simple. Improve them continuously.
 
 ---
 
-# 🎯 Currently Exploring
+## Contact
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📚 Learning
-
-- Multi-Agent Systems
-- Model Context Protocol (MCP)
-- AI System Design
-- LLM Evaluation
-- AI Deployment
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Building
-
-- AI Agents
-- Resume Matching Systems
-- Computer Vision Applications
-- RESTful APIs with FastAPI
-- Production-ready AI Workflows
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💭 Engineering Philosophy
-
-> **Build practical AI systems that solve real problems.**
->
-> I enjoy turning machine learning models into reliable applications by combining
-> software engineering, backend development, and modern AI technologies.
-
----
-
-# 📫 Connect
-
-<p align="center">
-
-<a href="mailto:tptnhan1491@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/nhan-tran-1810ab36a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
-
----
+- LinkedIn: https://www.linkedin.com/in/nhan-tran-1810ab36a/
+- Email: tptnhan1491@gmail.com
