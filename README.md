@@ -1,28 +1,80 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Banner"/>
+  <img src="./assets/banner.svg" width="100%" alt="banner">
 </p>
-
-# Building Intelligent Systems
-
-### Computer Vision • OCR • LLM • AI Agents
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI+that+can+see.;Building+AI+that+can+read.;Building+AI+that+can+reason.;Always+building." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+AI+that+can+see.;Building+AI+that+can+read.;Building+AI+that+can+reason.;Always+building." alt="Typing SVG" />
 </p>
 
-> Turning machine learning models into practical applications.
+<p align="center">
+  <a href="https://github.com/TPTN1707">
+    <img src="https://img.shields.io/badge/Open%20Source-Lover-161B22?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems-8E54E9?style=for-the-badge">
+</p>
 
 ---
 
-## 👋 About
+# 👋 About
 
-I build practical AI systems with a focus on **Computer Vision**, **OCR**, **Large Language Models**, and **AI Agents**. My goal is to turn machine learning models into production-ready applications.
+I'm an AI developer who enjoys building **real-world intelligent systems** rather than standalone machine learning models.
 
-## 🚀 Current Focus
+My primary interests include:
 
-| 🤖 AI Agents | 👁️ Computer Vision | ⚡ Backend |
-|---|---|---|
-| Multi-agent workflows | OCR, Detection | FastAPI, Docker |
+- 👁️ Computer Vision
+- 📄 OCR & Document Understanding
+- 🤖 Large Language Models
+- 🧠 AI Agents
+- ⚡ Backend Engineering
+
+Currently, I'm focusing on building production-ready AI applications using modern Python technologies.
+
+---
+
+# 🚀 Current Focus
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🤖 AI Agents
+
+Tool Calling
+
+Multi-Agent
+
+Reasoning
+
+</td>
+
+<td width="33%" align="center">
+
+### 👁️ Vision AI
+
+OCR
+
+YOLO
+
+Image Processing
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚡ AI Backend
+
+FastAPI
+
+Docker
+
+REST APIs
+
+</td>
+
+</tr>
+</table>
 
 ---
 
