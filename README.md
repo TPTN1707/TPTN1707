@@ -1,40 +1,27 @@
 # Hi, I'm Nhan 👋
 
-> Building practical AI systems with Computer Vision, Large Language Models, and AI Agents.
+> Building practical AI systems with **Computer Vision**, **Large Language Models**, and **AI Agents**.
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+</p>
 
 ---
 
 ## About
 
-I'm interested in building AI applications that solve real-world problems rather than experimenting with isolated models.
-
-My current interests include:
-
-- Computer Vision
-- Natural Language Processing
-- Large Language Models
-- AI Agents
-- Production AI Systems
-
----
-
-## Tech Stack
-
-**Languages**
-
-`Python` • `C/C++`
-
-**AI**
-
-`PyTorch` • `TensorFlow` • `OpenCV` • `YOLO` • `Gemini`
-
-**Backend**
-
-`FastAPI` • `Flask` • `Docker`
-
-**Tools**
-
-`Git` • `GitHub` • `Linux` • `VS Code`
+I'm interested in building practical AI applications by combining computer vision, natural language processing, large language models, and backend engineering. I enjoy turning ideas into reliable systems that can be deployed and continuously improved.
 
 ---
 
