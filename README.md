@@ -10,16 +10,6 @@ I'm interested in building practical AI applications by combining computer visio
 
 ---
 
-## Currently Exploring
-
-- Multi-Agent Systems
-- Model Context Protocol (MCP)
-- AI System Design
-- LLM Evaluation
-- Production AI
-
----
-
 ## Contribution
 
 <p align="center">
